@@ -30,7 +30,7 @@ export default function Home() {
           </button>
         )}
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Welcome to My Site <a href="https://nextjs.org">Next.js!</a>
         </h1>
 
         <p className={styles.description}>
